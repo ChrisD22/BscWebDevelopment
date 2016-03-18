@@ -45,11 +45,11 @@ The essential aims of this module are:
 ##Assessments
 
 1. Assignment One
-..* Learning Outcome
-..* Learning Outcome
+    * Learning Outcome
+    * Learning Outcome
 2. Assignment Two
-..* Learning Outcome
-..* Learning Outcome
+    * Learning Outcome
+    * Learning Outcome
 
 ##Learning Activities
 
