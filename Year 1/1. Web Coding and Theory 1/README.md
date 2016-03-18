@@ -17,18 +17,18 @@ Placing a heavy emphasis on a web standards, best practices and accessibility th
 ###Indicative Content
 
 + History of web page creation
-+ Current HTML standards and best practices 
-+ HTML coding fundamentals
-+ Colour
-+ Typography
-+ Hierarchy
-+ Modularity
 + Introduction to Web Standards
-+ Structured Markup, Semantics and Information Architecture
-+ Links
-+ File Transfer Protocols (FTP, SFTP)
-+ Cascading Style Sheets
++ Hypertext Markup Language (HTML) coding fundamentals, structured Markup and Semantics
++ Cascading Style Sheets (CSS) coding fundamentals
++ CSS colour
++ CSS typography basics
++ CSS layout - past, present and future
 + Responsive Foundations
++ Information Architecture
++ Introduction to Web accessibility
++ File Transfer Protocols (FTP, SFTP)
++ Versioning
++ Live web space management
 
 ##Learning Outcomes
 
