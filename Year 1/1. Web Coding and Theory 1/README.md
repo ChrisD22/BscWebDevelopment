@@ -22,8 +22,9 @@ Placing a heavy emphasis on a web standards, best practices and accessibility th
 + Cascading Style Sheets (CSS) coding fundamentals
 + CSS colour
 + CSS typography basics
-+ CSS layout - past, present and future
++ CSS layout
 + Responsive Foundations
++ Images for the web
 + Information Architecture
 + Introduction to Web accessibility
 + File Transfer Protocols (FTP, SFTP)
@@ -34,19 +35,19 @@ Placing a heavy emphasis on a web standards, best practices and accessibility th
 
 The essential aims of this module are:
 
-1. To introduce the formal principles of interaction design, including: sketching, visualisation, paper-prototyping and digital-prototyping.
-1. To equip students with a comprehensive understanding of communication design principles, including: composition, hierarchy, typography, and systems design.
-1. To ensure students acquire a solid, foundational knowledge of, and competence in HTML5 and CSS3 upon which they can build.
-1. To encourage a creative environment that supports an awareness and understanding of the core ideas of interaction design.
-1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
+1. To ensure students acquire a solid, foundational knowledge of, and competence in HTML and CSS upon which they can build.
+1. To introduce the formal principles of information architecture
+1. To equip students with a comprehensive understanding of  web development, including: markup, semantics, web accessibility, usability and information architecture.
+1. Collaborate in, and manage the delivery of online content and media.
+
 
 
 ##Assessments
 
-1. One
+1. Assignment One
 ..+ Learning Outcome
 ..+ Learning Outcome
-2. Two
+2. Assignment Two
 ..+ Learning Outcome
 ..+ Learning Outcome
 
@@ -56,17 +57,17 @@ The essential aims of this module are:
 
 ##Learning Resources
 
-###Essential Reading
+###Books recommended for purchase by students
 
-+ Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
-+ Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
-+ Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
-+ Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
++ Jon Duckett, c2011, HTML & CSS: design and build websites 
++ Duckett, Jon, , HTML and CSS : Design and Build Websites (e-book)
 
+###Further Reading/Resources
 
-###Further Reading
-
-
++ Lynch, Patrick J., Horton, Sarah, c2008, Web style guide
++ Shay Howe, 2014, Learn to code HTML & CSS: develop & style websites
++ Steve Krug, 2014, Don't make me think, revisited: a common sense approach to Web usability 
++ HTML Essential Training from lynda.com
 
 ###Special ICTS Requirements
 
