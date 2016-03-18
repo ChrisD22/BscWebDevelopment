@@ -12,17 +12,13 @@
 
 <!-- 140 characters -->
 
-Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry. 
+Placing a heavy emphasis on a web standards, best practices and accessibility this unit introduces the fundamentals of creating web pages with HTML and CSS.
 
 ###Indicative Content
 
-A twin-stranded module, Design Practice Fundamentals is delivered both off-screen and on-screen, to introduce students embarking on the course to the idea that interaction design can, and should, be developed off-screen as well as on-screen. Paper-based exercises introduce students to fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. Complimenting these studio sessions, lab sessions ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
-
-This module runs concurrently with the Introduction to Communication Design history and theory module, which provides students with a contextual framework that is designed to complement the practical nature of this module.
-
-+ Point, Line, Plane
-+ Rhythm and Balance
-+ Scale and Composition
++ History of web page creation
++ Current HTML standards and best practices 
++ HTML coding fundamentals
 + Colour
 + Typography
 + Hierarchy
