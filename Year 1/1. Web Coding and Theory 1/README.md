@@ -71,6 +71,7 @@ The essential aims of this module are:
 
 + Lynch, Patrick J., Horton, Sarah, c2008, Web style guide
 + Shay Howe, 2014, Learn to code HTML & CSS: develop & style websites
++ Donna Spencer, 2010, A practical guide to information architecture
 + Steve Krug, 2014, Don't make me think, revisited: a common sense approach to Web usability 
 + HTML Essential Training from lynda.com
 
