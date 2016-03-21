@@ -68,8 +68,10 @@ The essential aims of this module are:
 + Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
 + Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
 + Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
-+ Allen, J., Chudley, J., 2012. Smashing UX design: foundations for designing online user experiences. Wiley. 
-
++ Jason Santa Maria, Ellen Lupton, 2014, On web typography
++ Robin Williams, 2015, The non-designer's design book: design and typographic principles for the visual novice
++ Le Peuple, J., Scane, R., 2004. User Interface Design. Crucial.
++ 100 Things Every Designer Needs to Know About People by Susan Weinschenk
 
 ###Further Reading
 

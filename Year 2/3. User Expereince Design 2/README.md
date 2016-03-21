@@ -1,4 +1,4 @@
-#Web Coding and Theory 1
+#User Experience Design 2
 <!-- Temporary title -->
 ===============================
 
@@ -12,27 +12,11 @@
 
 <!-- 140 characters -->
 
-Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry. 
+
 
 ###Indicative Content
 
-A twin-stranded module, Design Practice Fundamentals is delivered both off-screen and on-screen, to introduce students embarking on the course to the idea that interaction design can, and should, be developed off-screen as well as on-screen. Paper-based exercises introduce students to fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. Complimenting these studio sessions, lab sessions ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
-This module runs concurrently with the Introduction to Communication Design history and theory module, which provides students with a contextual framework that is designed to complement the practical nature of this module.
-
-+ Point, Line, Plane
-+ Rhythm and Balance
-+ Scale and Composition
-+ Colour
-+ Typography
-+ Hierarchy
-+ Modularity
-+ Introduction to Web Standards
-+ Structured Markup, Semantics and Information Architecture
-+ Links
-+ File Transfer Protocols (FTP, SFTP)
-+ Cascading Style Sheets
-+ Responsive Foundations
 
 ##Learning Outcomes
 
@@ -62,10 +46,14 @@ The essential aims of this module are:
 
 ###Essential Reading
 
-+ Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
-+ Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
-+ Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
-+ Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
++ Allen, J., Chudley, J., 2012. Smashing UX design: foundations for designing online user experiences. Wiley. 
++ A Project Guide to UX Design: For user experience designers in the field or in the making by Russ Unger and Carolyn Chandler
++ Cennydd Bowles, James Box, c2011, Undercover user experience: learn how to do great UX work with tiny budgets, no time, and limited support
++ Steve Krug, c2010, Rocket surgery made easy: the do-it-yourself guide to finding and fixing usability problems 
++ Greenberg, S. et al. 2012. Sketching the USer Experience. Elsevier.
++ Caddick, R., Cable, S. 2011. Communicating the user experience. Wiley.
++ Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests by Jeffrey Rubin
++ Simple and Usable Web, Mobile, and Interaction Design by Giles Colborne
 
 
 ###Further Reading
