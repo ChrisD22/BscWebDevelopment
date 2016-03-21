@@ -54,10 +54,35 @@ The essential aims of this module are:
 
 ###Essential Reading
 
-+ Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
-+ Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
-+ Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
-+ Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
+####Computers
+
+Eric Gottfrid Swedin, David L. Ferro, 2007, Computers: the life story of a technology
+Ludovic Smith, 2007, Crash!: the story of information technology
+Ron White, Timothy Edward Downs, 2015, How computers work: the evolution of technology
+
+####Networks and the Internet
+
+Frank J. Derfler, Les Freed, 2004, How networks work
+Joseph W. Habraken, 2003, Absolute beginner's guide to networking
+Preston Gralla, 2007, How the Internet works
+
+####Programming
+
+Greg M. Perry, NetLibrary, Inc, c2001, Absolute beginner's guide to programming (ELECTRONIC)
+Larry E. Ullman, c2012, PHP and MySQL for dynamic Web sites
+Wally Wang, c2007, Beginning programming for dummies
+
+####Database theory
+
+Colin Ritchie, 2002, Relational database principles
+R. L. Warrender, 2003, Databases
+
+####Technology and society
+
+Barry Wellman, Caroline A. Haythornthwaite, 2002, The Internet in everyday life (ELECTRONIC)
+Beth Porter, NetLibrary, Inc, 2001, The Net effect (ELECTRONIC)
+Brian Winston, Brian Winston, 1998, Media technology and society: a history : from the telegraph to the Internet
+Manuel Castells, 2002, The Internet galaxy: reflections on the Internet, business, and society
 
 
 ###Further Reading

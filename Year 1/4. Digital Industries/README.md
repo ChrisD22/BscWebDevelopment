@@ -1,4 +1,4 @@
-#Web Coding and Theory 1
+#Digital Industries
 <!-- Temporary title -->
 ===============================
 
@@ -12,37 +12,21 @@
 
 <!-- 140 characters -->
 
-Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry. 
+Most of us work for organisations. Understanding organisations and developing your enterprise skills will help you improve your chances of success at work.
 
 ###Indicative Content
 
-A twin-stranded module, Design Practice Fundamentals is delivered both off-screen and on-screen, to introduce students embarking on the course to the idea that interaction design can, and should, be developed off-screen as well as on-screen. Paper-based exercises introduce students to fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. Complimenting these studio sessions, lab sessions ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
+The unit will focus on three key areas: (1) organisations: their functions, structure, processes, culture, environment and management; (2) the use of information and information systems in support of the management of organisations; and (3) professional development: students will have the opportunity to develop enterprise skills (team work, communication, interpersonal, leadership, commercial awareness...), reflect upon their enterprise skills development, and explore individual roles in organisations. A range of public and private sector digital industries related organisational contexts will be considered, from large multi-nationals to start-up, agency to in-house and freelance.
 
-This module runs concurrently with the Introduction to Communication Design history and theory module, which provides students with a contextual framework that is designed to complement the practical nature of this module.
-
-+ Point, Line, Plane
-+ Rhythm and Balance
-+ Scale and Composition
-+ Colour
-+ Typography
-+ Hierarchy
-+ Modularity
-+ Introduction to Web Standards
-+ Structured Markup, Semantics and Information Architecture
-+ Links
-+ File Transfer Protocols (FTP, SFTP)
-+ Cascading Style Sheets
-+ Responsive Foundations
 
 ##Learning Outcomes
 
 The essential aims of this module are:
 
-1. To introduce the formal principles of interaction design, including: sketching, visualisation, paper-prototyping and digital-prototyping.
-1. To equip students with a comprehensive understanding of communication design principles, including: composition, hierarchy, typography, and systems design.
-1. To ensure students acquire a solid, foundational knowledge of, and competence in HTML5 and CSS3 upon which they can build.
-1. To encourage a creative environment that supports an awareness and understanding of the core ideas of interaction design.
-1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
+1. Explain concepts of organisational theory.
+1. Apply concepts of organisational theory to real-world scenarios..
+1. Provide evidence of aspects of professional development.
+1. Reflect on aspects of enterprise skills development relating to working effectively in a team.
 
 
 ##Assessments
@@ -62,15 +46,20 @@ The essential aims of this module are:
 
 ###Essential Reading
 
-+ Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
-+ Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
-+ Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
-+ Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
++ Boddy, David, Paton, Steve, 2011, Management: an introduction
++ Cole, G. A., Kelly, P., c2011, Management theory and practice
++ Handy, Charles B., 1993, Understanding organizations
++ John R. Schermerhorn, 2013, Introduction to management
++ Kenneth C. Laudon, Jane Price Laudon, 2016, Management information systems: managing the digital firm (ELECTRONIC. Read chapter 2 in particular 'Global e-busness and collaboration', pp.72-108)
++ Mullins, Laurie J., Christy, Gill, , Management & organisational behaviour (ELECTRONIC)
 
 
 ###Further Reading
 
-
++ Armstrong, Gary, Kotler, Philip, c2013, Marketing: an introduction
++ Daft, Richard L., Marcic, Dorothy, 2012, Management: the new workplace
++ Lucey, T., 2005, Management information systems
++ Worthington, Ian, Britton, Chris, 2009, The business environment, Management decision
 
 ###Special ICTS Requirements
 
