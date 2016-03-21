@@ -5,6 +5,8 @@
 + __Year:__ 1
 + __Credits:__ 30 Credits
 
+##Unit Vision
+The intention - this unit would cover the basics of semantic, standards based HTML and CSS over the two terms. Using best practices, hand coding to learn the core HTML and CSS elements, attributes and values to create valid pages. This would include single to multiple column layout, use of media, basics of responsive and adaptive design. Lectures and labs will also include Web accessibility, usability and information architecture. 
 
 ##Unit Description
 
