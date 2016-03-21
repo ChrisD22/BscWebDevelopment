@@ -18,6 +18,8 @@ Placing a heavy emphasis on a web standards, best practices and accessibility th
 
 ###Indicative Content
 
+This module runs concurrently with the User Expereince Design 1, which provides students with a contextual framework that is designed to complement the practical nature of this module.
+
 + History of web page creation
 + Introduction to Web Standards
 + Hypertext Markup Language (HTML) coding fundamentals, structured Markup and Semantics
