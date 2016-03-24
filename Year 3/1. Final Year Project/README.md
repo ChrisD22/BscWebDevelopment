@@ -9,6 +9,9 @@
 
 The major project is an individual project developing a product for a 'real' client. As well as building the product to the required standards and guideleines, the student will be required to deliver a report describing their journey, analysing and critiquing both the final product and their own performance. This will be fully supported by full documentation from initial client requirements through to style guide etc.
 
+##Questions for industry
+
+
 ##Unit Description
 
 ###Brief Summary

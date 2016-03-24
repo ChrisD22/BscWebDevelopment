@@ -9,6 +9,9 @@
 
 This unit gives student the opportunity to get themselves 'agency ready' by investigating technologies, tools and techniques they think are still missing from their skill set. They will also be required to develop a live portfolio and to reflect on their own professional development and employability.
 
+##Questions for industry
+
+
 ##Unit Description
 
 ###Brief Summary

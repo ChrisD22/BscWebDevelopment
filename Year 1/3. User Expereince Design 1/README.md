@@ -9,6 +9,9 @@
 
 The fundamentals of communication design. Many of our students don't have 'design bones'. We want them to learn the basics of typography, layout and colour in relation to web design. This will also include an introduction to prototyping, sketching, compositions, user exeprience design, UCD and basic HCI principles for web design.
 
+##Questions for industry
+
+
 ##Unit Description
 
 ###Brief Summary

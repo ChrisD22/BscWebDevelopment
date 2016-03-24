@@ -9,6 +9,9 @@
 
 The fundamentals of understanding organisations and developing enterprise skills. This includes team work, communication, interpersonal, leadership and commercial awareness, all essential to the digital industries. Students will get an insight into the digital industies sector, the career options and opportunities available. They will be encouoraged to start developing their own portfolio and to engage in the local tech community.
 
+##Questions for industry
+
+
 ##Unit Description
 
 ###Brief Summary
