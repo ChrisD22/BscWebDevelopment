@@ -17,6 +17,7 @@ Students work to complete an information and communications project using techni
 ###Indicative Content
 
 The focus of this unit is the development of an information and communications related product or service. A project to be developed could be for example: production of a guide to resources, development of an intranet/website, production of a multimedia artefact. In the specification and development of their projects the teams will use both project management and information systems development approaches, methods and theories. 
+
 1. Project planning and the planning process - work-packages, timescales, deliverables, milestones etc. Planning-evaluation cycle. 
 2. Systems lifecycle. Stating project objectives. Eliciting and managing user/client requirements. Developing a specification/proposal. Market research techniques: researching current and potential markets. 
 3. Systems implementation: translation of the requirements to a functional specification and then to a product. 
@@ -24,20 +25,6 @@ The focus of this unit is the development of an information and communications r
 6. Evaluation and quality management; evaluation strategies and methods (to include aspects of personal development, reflection, self-evaluation etc). 
 7. Communicating: writing, presenting, documenting. Writing proposals, project and management reports. 
 8. Personal development: team roles, team working, negotiation and decision making, communications and interpersonal skills.
-
-+ Point, Line, Plane
-+ Rhythm and Balance
-+ Scale and Composition
-+ Colour
-+ Typography
-+ Hierarchy
-+ Modularity
-+ Introduction to Web Standards
-+ Structured Markup, Semantics and Information Architecture
-+ Links
-+ File Transfer Protocols (FTP, SFTP)
-+ Cascading Style Sheets
-+ Responsive Foundations
 
 ##Learning Outcomes
 
