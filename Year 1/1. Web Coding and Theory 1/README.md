@@ -7,7 +7,7 @@
 
 ##Our Vision
 
-The intention - This unit will cover the basics of semantic, standards based HTML and CSS over the two terms. Using best practices, hand coding to learn the core HTML and CSS elements, attributes and values to create valid pages. This would include single to multiple column layout, use of media, basics of responsive and adaptive design. Lectures and labs will also include introductions to Web accessibility, usability and information architecture. 
+This unit will cover the basics of semantic, standards based HTML and CSS over the two terms. Using best practices, hand coding to learn the core HTML and CSS elements, attributes and values to create valid pages. This would include single to multiple column layout, use of media, basics of responsive and adaptive design. Lectures and labs will also include introductions to Web accessibility, usability and information architecture. 
 
 ##Unit Description
 

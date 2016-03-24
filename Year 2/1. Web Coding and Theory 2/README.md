@@ -8,7 +8,7 @@
 
 ##Our Vision
 
-The intention - Working in teams, taking the students through the web development process from client brief to delivery. Working on 'real' briefs, the students will undertake 2 or 3 projects over the two terms. Managed via regular sprint meetings students will be expected to manage and develop the product through each stage of the process. The unit will also include further development of the students front-end coding skills.
+Working in teams, taking the students through the web development process from client brief to delivery. Working on 'real' briefs, the students will undertake 2 or 3 projects over the two terms. Managed via regular sprint meetings students will be expected to manage and develop the product through each stage of the process. The unit will also include further development of the students front-end coding skills.
 
 
 ##Unit Description

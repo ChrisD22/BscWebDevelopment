@@ -5,6 +5,9 @@
 + __Year:__ 3
 + __Credits:__ 30 Credits (or 60 credits)
 
+##Our Vision
+
+The major project is an individual project developing a product for a 'real' client. As well as building the product to the required standards and guideleines, the student will be required to deliver a report describing their journey, analysing and critiquing both the final product and their own performance. This will be fully supported by full documentation from initial client requirements through to style guide etc.
 
 ##Unit Description
 
@@ -12,7 +15,7 @@
 
 <!-- 140 characters -->
 
-The unit provides a platform for the design and execution of a web based project. It also requires reflection on, analysis and evaluation of education and work experience, providing a focus for professional development and employability skills.
+The unit provides a platform for the design and execution of a web based project. 
 
 ###Indicative Content
 
@@ -31,7 +34,7 @@ The essential aims of this module are:
 
 1. Plan, organize and execute an individual programme of independent learning which leads to the development of a web based product.
 1. Use appropriate literature, methods and techniques in the design, creation, evaluation and reporting of the product.
-1. 	Reflect on and critically analyse their academic and work-based development experiences.
+
 
 
 ##Assessment ideas

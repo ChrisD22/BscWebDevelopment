@@ -5,6 +5,10 @@
 + __Year:__ 3
 + __Credits:__ 30 Credits
 
+##Our Vision
+
+This prepares students for work in a variety of business environments ranging large organisations, SMEs, start-ups and freelancing. 
+
 
 ##Unit Description
 

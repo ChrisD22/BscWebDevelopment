@@ -5,6 +5,9 @@
 + __Year:__ 3
 + __Credits:__ 30 Credits
 
+##Our Vision
+
+This unit gives student the opportunity to get themselves 'agency ready' by investigating technologies, tools and techniques they think are still missing from their skill set. They will also be required to develop a live portfolio and to reflect on their own professional development and employability.
 
 ##Unit Description
 
@@ -12,37 +15,25 @@
 
 <!-- 140 characters -->
 
-Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry. 
+Professional practices in web design and development. Core skills, theories and practices required by the front-end web developer in the workplace. 
 
 ###Indicative Content
 
-A twin-stranded module, Design Practice Fundamentals is delivered both off-screen and on-screen, to introduce students embarking on the course to the idea that interaction design can, and should, be developed off-screen as well as on-screen. Paper-based exercises introduce students to fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. Complimenting these studio sessions, lab sessions ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
+This unit will deliver cutting edge practices that change from year to year, reflecting the needs and requirements of the web developer in the workplace. This will include advanced application of standards based HTML and CSS, scripting and coding with a variety of tool sets. The unit will be informed by industry best practices and standards.
 
-This module runs concurrently with the Introduction to Communication Design history and theory module, which provides students with a contextual framework that is designed to complement the practical nature of this module.
++ There will be no list - by it's nature the content and focus will change each year.
 
-+ Point, Line, Plane
-+ Rhythm and Balance
-+ Scale and Composition
-+ Colour
-+ Typography
-+ Hierarchy
-+ Modularity
-+ Introduction to Web Standards
-+ Structured Markup, Semantics and Information Architecture
-+ Links
-+ File Transfer Protocols (FTP, SFTP)
-+ Cascading Style Sheets
-+ Responsive Foundations
+There will also be reflection on, analysis and evaluation of education and work experience, providing a focus for professional development and employability skills.
 
 ##Learning Outcomes
 
 The essential aims of this module are:
 
-1. To introduce the formal principles of interaction design, including: sketching, visualisation, paper-prototyping and digital-prototyping.
-1. To equip students with a comprehensive understanding of communication design principles, including: composition, hierarchy, typography, and systems design.
-1. To ensure students acquire a solid, foundational knowledge of, and competence in HTML5 and CSS3 upon which they can build.
-1. To encourage a creative environment that supports an awareness and understanding of the core ideas of interaction design.
-1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
+1. Construct a professional standard portfolio in web design and development.
+1. Apply advanced techniques in HTML, CSS and scripting for web design and development.
+1. Devise and plan objects that synthesise current technical standards and industry practices.
+1. Build objects applying relevant methods, techniques and tools.
+1. 	Reflect on and critically analyse their academic and work-based development experiences.
 
 
 ##Assessment ideas
@@ -57,7 +48,22 @@ The essential aims of this module are:
 
 + Stella Cottrell, 2015, Skills for success: personal development and employability
 + Thompson, Neil, 2009, People skills
++ Clark, Richard, Studholme, Oli, Murphy, Christopher, Manian, Divya, , Beginning HTML5 and CSS3
++ Dan Cederholm, Chris Coyier, 2014, Sass for web designers
++ Marcotte, Ethan, Keith, Jeremy, 2011, Responsive web design
 
++ Bruce Lawson, Remy Sharp, c2011, Introducing HTML5
++ Clarke, Andy, 2016, Hardboiled web design 2nd ed.
++ Jason Santa Maria, Ellen Lupton, 2014, On web typography
++ Jon Duckett, 2013, JavaScript & JQuery: interactive front-end Web development
++ Luke Wroblewski, 2011, Mobile first
++ Scott Jehl, Ethan Marcotte, 2015, Responsible responsive design
+2015.
+
++ Aaron Gustafson, 2011, Adaptive web design: crafting rich experiences with progressive enhancement
++ Frain, Ben, 2012, Responsive web design with HTML5 and CSS3: learn responsive design using HTML5 and CSS3 to adapt websites to any browser or screen size (ELECTRONIC)
++ Matthew MacDonald, 2013, HTML5 (e-book)
++ Weyl, Estelle, 2013, Mobile HTML5 (ELECTRONIC)
 
 
 <!--
