@@ -2,8 +2,8 @@
 <!-- Temporary title -->
 ===============================
 
-+ __Year:__ 1
-+ __Credits:__ 30 Credits
++ __Year:__ 3
++ __Credits:__ 30 Credits (or 60 credits)
 
 
 ##Unit Description
