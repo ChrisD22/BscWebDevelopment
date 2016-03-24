@@ -30,11 +30,9 @@ The focus of this unit is the development of an information and communications r
 
 The essential aims of this module are:
 
-1. To introduce the formal principles of interaction design, including: sketching, visualisation, paper-prototyping and digital-prototyping.
-1. To equip students with a comprehensive understanding of communication design principles, including: composition, hierarchy, typography, and systems design.
-1. To ensure students acquire a solid, foundational knowledge of, and competence in HTML5 and CSS3 upon which they can build.
-1. To encourage a creative environment that supports an awareness and understanding of the core ideas of interaction design.
-1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
+1. Work effectively in a team.
+1. Design, plan and execute digital projects using professional project management and systems development methods.
+1. 	Reflect upon their personal, professional and employability competencies.
 
 
 ##Assessments
@@ -54,15 +52,20 @@ The essential aims of this module are:
 
 ###Essential Reading
 
-+ Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
-+ Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
-+ Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
-+ Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
++ Avison, D. E., Fitzgerald, G., c2006, Information systems development: methodologies, techniques & tools
++ James A. Highsmith, c2010, Agile project management: creating innovative products (This is a link to the 2nd edition (2010). 
++ Kenneth C. Laudon, Jane Price Laudon, 2016, Management information systems: managing the digital firm (ELECTRONIC)
++ Lientz, Bennet P., Rea, Kathryn P., 2001, Project management for the 21st century (ELECTRONIC)
+Harvey Maylor, 2010, Project management (ELECTRONIC)
 
 
 ###Further Reading
 
-
++ Curtis, Graham, Cobham, David P., 2008, Business information systems: analysis, design, and practice
++ Neil Thompson, 2015, People skills 
++ Garud, Raghu, Kumaraswamy, Arun, Langlois, Richard N., 2003, Managing in the modular age: architectures, networks, and organizations (ELECTRONIC)
++ International journal of project management (ELECTRONIC)
++ Project management journal
 
 ###Special ICTS Requirements
 

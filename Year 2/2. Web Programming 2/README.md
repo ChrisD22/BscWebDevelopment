@@ -16,33 +16,24 @@ This unit provides a detailed introduction to Javascript and Javascript-related 
 
 ###Indicative Content
 
-A twin-stranded module, Design Practice Fundamentals is delivered both off-screen and on-screen, to introduce students embarking on the course to the idea that interaction design can, and should, be developed off-screen as well as on-screen. Paper-based exercises introduce students to fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. Complimenting these studio sessions, lab sessions ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
++ Javascript, front-end web development, web programming
++ Object-orientated programming
++ Client-side programming
++ The Document Object Model
++ Event-driven programming
++ Javascript libraries
++ JQuery, AJAX , JSON.
++ HTML5 canvas, animations.
 
-This module runs concurrently with the Introduction to Communication Design history and theory module, which provides students with a contextual framework that is designed to complement the practical nature of this module.
-
-+ Point, Line, Plane
-+ Rhythm and Balance
-+ Scale and Composition
-+ Colour
-+ Typography
-+ Hierarchy
-+ Modularity
-+ Introduction to Web Standards
-+ Structured Markup, Semantics and Information Architecture
-+ Links
-+ File Transfer Protocols (FTP, SFTP)
-+ Cascading Style Sheets
-+ Responsive Foundations
 
 ##Learning Outcomes
 
 The essential aims of this module are:
 
-1. To introduce the formal principles of interaction design, including: sketching, visualisation, paper-prototyping and digital-prototyping.
-1. To equip students with a comprehensive understanding of communication design principles, including: composition, hierarchy, typography, and systems design.
-1. To ensure students acquire a solid, foundational knowledge of, and competence in HTML5 and CSS3 upon which they can build.
-1. To encourage a creative environment that supports an awareness and understanding of the core ideas of interaction design.
-1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
+1. To describe the key concepts underlying programming languages and Javascript in particular.
+1. Read scripts, that is describe in English language and as run-time results, the concepts underlying and the actions specified in web language constructs.
+1. Integrate a web programming language with HTML and CSS technologies to develop a web based information system.
+1. Write and modify scripts to achieve different tasks associated with web data handling and styling.
 
 
 ##Assessments
@@ -62,10 +53,12 @@ The essential aims of this module are:
 
 ###Essential Reading
 
-+ Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
-+ Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
-+ Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
-+ Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
++ Jon Duckett, Gilles Ruppert, Jack Moore, 2014, JavaScript & jQuery: interactive front-end Web development 
++ Jon Duckett, 2013, JavaScript & JQuery: interactive front-end Web development
++ Williams, Hugh E., Lane, David, 2004, Web database applications with PHP and MySQL (ELECTRONIC)
++ Larry E. Ullman, Larry E. Ullman, c2011, PHP for the Web
+Nixon, Robin, 1961-, 2012, Learning PHP, MySQL, JavaScript, and CSS: a step-by-step guide to creating dynamic websites (ELECTRONIC)
+
 
 
 ###Further Reading
