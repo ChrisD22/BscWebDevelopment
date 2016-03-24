@@ -1,8 +1,8 @@
-#Web Coding and Theory 1
+#Web Programming 2
 <!-- Temporary title -->
 ===============================
 
-+ __Year:__ 1
++ __Year:__ 2
 + __Credits:__ 30 Credits
 
 
@@ -12,7 +12,7 @@
 
 <!-- 140 characters -->
 
-Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry. 
+This unit provides a detailed introduction to Javascript and Javascript-related technologies. It is directed towards the needs of Web Designers in data handing for web page and applications generation.
 
 ###Indicative Content
 

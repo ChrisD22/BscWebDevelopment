@@ -2,7 +2,7 @@
 <!-- Temporary title -->
 ===============================
 
-+ __Year:__ 1
++ __Year:__ 2
 + __Credits:__ 30 Credits
 
 
@@ -36,7 +36,7 @@ Using current best practices, IA and standards based web development the student
 
 The essential aims of this module are:
 
-1. Apply the principles of information architecture and good site design to the collaborative planning, organisation and development of a Web site.
+1. Apply the principles of information architecture, content strategy and good site design to the collaborative planning, organisation and development of a Web site.
 1. Create Web content and code that conform to common standards and good practice in web development.
 1. Apply web accessibility and usability at all stages of the development process.
 1. Distiguish the principles of information architecture, Web usability and accessibility, and standards based Web site development.

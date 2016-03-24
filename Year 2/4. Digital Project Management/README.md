@@ -1,8 +1,8 @@
-#Web Coding and Theory 1
+#User Digital Project Management 2
 <!-- Temporary title -->
 ===============================
 
-+ __Year:__ 1
++ __Year:__ 2
 + __Credits:__ 30 Credits
 
 
@@ -12,13 +12,18 @@
 
 <!-- 140 characters -->
 
-Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry. 
+Students work to complete an information and communications project using techniques from digital project management and information systems design and development. Personal and employability skills are developed through teamwork and reflection.
 
 ###Indicative Content
 
-A twin-stranded module, Design Practice Fundamentals is delivered both off-screen and on-screen, to introduce students embarking on the course to the idea that interaction design can, and should, be developed off-screen as well as on-screen. Paper-based exercises introduce students to fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. Complimenting these studio sessions, lab sessions ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
-
-This module runs concurrently with the Introduction to Communication Design history and theory module, which provides students with a contextual framework that is designed to complement the practical nature of this module.
+The focus of this unit is the development of an information and communications related product or service. A project to be developed could be for example: production of a guide to resources, development of an intranet/website, production of a multimedia artefact. In the specification and development of their projects the teams will use both project management and information systems development approaches, methods and theories. 
+1. Project planning and the planning process - work-packages, timescales, deliverables, milestones etc. Planning-evaluation cycle. 
+2. Systems lifecycle. Stating project objectives. Eliciting and managing user/client requirements. Developing a specification/proposal. Market research techniques: researching current and potential markets. 
+3. Systems implementation: translation of the requirements to a functional specification and then to a product. 
+4. Project launch - explanation and promotion. 5. Training users, including a variety of methods of training. 
+6. Evaluation and quality management; evaluation strategies and methods (to include aspects of personal development, reflection, self-evaluation etc). 
+7. Communicating: writing, presenting, documenting. Writing proposals, project and management reports. 
+8. Personal development: team roles, team working, negotiation and decision making, communications and interpersonal skills.
 
 + Point, Line, Plane
 + Rhythm and Balance
