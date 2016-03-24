@@ -12,69 +12,60 @@
 
 <!-- 140 characters -->
 
-Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry. 
+We use systems concepts to analyse organisations. We explore the management of organisational resources (eg. people and money) in a variety of complex and changing organisational contexts.
 
 ###Indicative Content
 
-A twin-stranded module, Design Practice Fundamentals is delivered both off-screen and on-screen, to introduce students embarking on the course to the idea that interaction design can, and should, be developed off-screen as well as on-screen. Paper-based exercises introduce students to fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. Complimenting these studio sessions, lab sessions ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
-
-This module runs concurrently with the Introduction to Communication Design history and theory module, which provides students with a contextual framework that is designed to complement the practical nature of this module.
-
-+ Point, Line, Plane
-+ Rhythm and Balance
-+ Scale and Composition
-+ Colour
-+ Typography
-+ Hierarchy
-+ Modularity
-+ Introduction to Web Standards
-+ Structured Markup, Semantics and Information Architecture
-+ Links
-+ File Transfer Protocols (FTP, SFTP)
-+ Cascading Style Sheets
-+ Responsive Foundations
+1. Human Resource Management Human resource management strategy, activities and legislation. 
+2. Financial Resource Management Understanding financial information that is published by organisations (financial accounting). Producing financial information that will be of use to managers in organisations e.g. costing and budgeting (management accounting). 
+3. Information Resource Management. The nature and use of information resources. Legal framework for information resources, eg. DPA, FOI and copyright. 
+4. Organisational Analysis and Human Activity Systems Analysis. 
+5. Strategy, planning and contemporary concerns eg. competitor, market and environmental analysis, e-business, employment patterns, performance and quality management. 
+6. Management Competencies eg. decision making, entrepreneurship, creativity, innovation, negotiation, leadership. 
+7. Management of Change.
 
 ##Learning Outcomes
 
 The essential aims of this module are:
 
-1. To introduce the formal principles of interaction design, including: sketching, visualisation, paper-prototyping and digital-prototyping.
-1. To equip students with a comprehensive understanding of communication design principles, including: composition, hierarchy, typography, and systems design.
-1. To ensure students acquire a solid, foundational knowledge of, and competence in HTML5 and CSS3 upon which they can build.
-1. To encourage a creative environment that supports an awareness and understanding of the core ideas of interaction design.
-1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
+1. Prepare an aspect of a business plan, informed by the critical evaluation, and application of appropriate, organisational resources management theory.
+1. Construct a methodologically-informed system model.
+1. Justify an approach to organisational planning.
 
 
-##Assessments
+##Assessment ideas
 
-1. One
-..+ Learning Outcome
-..+ Learning Outcome
-2. Two
-..+ Learning Outcome
-..+ Learning Outcome
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
+##Suggestions for reading lists
 
-###Essential Reading
++ Gerry Johnson, 2013, Exploring strategy: [text & cases] (ELECTRONIC)
++ Martin Reynolds, Sue Holwell, 2010, Systems approaches to managing change: a practical guide (ELECTRONIC)
 
-+ Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
-+ Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
-+ Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
-+ Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
++ Applegate, Lynda M., Austin, Robert D., McFarlan, F. Warren, 2008, Corporate information strategy and management: text and cases
++ Armstrong, Michael, 2012, Armstrong's handbook of management and leadership: developing effective people skills for better leadership and management (ELECTRONIC)
++ Checkland, Peter, Poulter, John, 2006, Learning for action: a short definitive account of soft systems methodology, and its use for practitioner, teachers and students
++ David A. Buchanan, Andrzej Huczynski, David A. Buchanan, 2013, Organizational behaviour (ELECTRONIC. Print versions also available)
++ David Horner, 2015, Accounting for non-accountants (ELECTRONIC)
++ Fill, Chris, , Marketing communications: brands, experiences and participation (ELECTRONIC)
++ Foot, Margaret, Hook, Caroline, 2011, Introducing human resource management
++ Johnson, Gerry, Whittington, Richard, Scholes, Kevan, Johnson, Gerry, 2011, Exploring strategy (ELECTRONIC)
++ McDonald, Malcolm, Wilson, Hugh, 2011, Marketing plans: how to prepare them, how to use them (ELECTRONIC)
++ McLaney, E. J., Atrill, Peter, 2012, Accounting: an introduction (ELECTRONIC)
++ Michael Armstrong, Stephen Taylor, 2014, Armstrong's handbook of human resource management practice (ELECTRONIC)
++ Mott, Graham, 2012, Accounting for non-accountants: a manual for managers and students
++ Price, Alan, Price, Alan, 2011, Human resource management
++ Senior, Barbara, Swailes, Stephen, 2010, Organizational change
++ Smith, P. R., Zook, Ze, 2011, Marketing communications: integrating offline and online with social media (ELECTRONIC)
++ 2014, Human resource management: a contemporary approach (ELECTRONIC)
 
-
-###Further Reading
-
-
-
-###Special ICTS Requirements
-
-###Additional Requirements
++ Anne Abraham et al, , External Financial Reporting (DIGITISED)
++ H. John Bernardin, , Performance Management and Appraisal (DIGITISED)
++ Michael Jones, , Introduction to Accounting (DIGITISED)
++ Peter Checkland, John Poulter, , A Fleshed-out Account of SSM (DIGITISED)
 
 <!--
 

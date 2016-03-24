@@ -46,29 +46,18 @@ The essential aims of this module are:
 1. Collaborate in, and manage the delivery of online content and media.
 
 
+##Assessment ideas
 
-##Assessments
 
-1. Assignment One
-    * Learning Outcome
-    * Learning Outcome
-2. Assignment Two
-    * Learning Outcome
-    * Learning Outcome
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
-
-###Books recommended for purchase by students
+##Suggestions for reading lists
 
 + Jon Duckett, c2011, HTML & CSS: design and build websites 
 + Duckett, Jon, , HTML and CSS : Design and Build Websites (e-book)
-
-###Further Reading/Resources
-
 + Lynch, Patrick J., Horton, Sarah, c2008, Web style guide
 + Shay Howe, 2014, Learn to code HTML & CSS: develop & style websites
 + Donna Spencer, 2010, A practical guide to information architecture
@@ -77,9 +66,6 @@ The essential aims of this module are:
 + Morville, Peter, Rosenfeld, Louis, 2006, Information architecture for the World Wide Web 
 + HTML Essential Training from lynda.com
 
-###Special ICTS Requirements
-
-###Additional Requirements
 
 <!--
 

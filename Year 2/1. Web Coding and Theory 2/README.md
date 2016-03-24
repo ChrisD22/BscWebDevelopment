@@ -43,24 +43,15 @@ The essential aims of this module are:
 
 
 
-##Assessments
+##Assessment ideas
 
-1. One
-..+ Learning Outcome
-..+ Learning Outcome
-2. Two
-..+ Learning Outcome
-..+ Learning Outcome
+
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
-
-###Essential Reading
-
-####HTML & CSS
+##Suggestions for reading lists
 
 + Dan Cederholm, Jeffrey Zeldman, 2010, CSS3 for web designers
 + Jeremy Keith, Jeffrey Zeldman, 2010, HTML5 for web designers
@@ -71,15 +62,10 @@ The essential aims of this module are:
 + Mark Boulton, 2009, A practical guide to designing for the web
 + Breandán Knowlton, 2012, A practical guide to managing web projects 
 + Christina Wodtke, Austin Govella, 2009, Information architecture: blueprints for the Web
-
-
-###Further Reading
++ Lynch, Patrick J., Horton, Sarah, c2008, Web style guide: basic design principles for creating Web sites
 
 
 
-###Special ICTS Requirements
-
-###Additional Requirements
 
 <!--
 

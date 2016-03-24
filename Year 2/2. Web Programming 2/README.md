@@ -36,22 +36,15 @@ The essential aims of this module are:
 1. Write and modify scripts to achieve different tasks associated with web data handling and styling.
 
 
-##Assessments
+##Assessment ideas
 
-1. One
-..+ Learning Outcome
-..+ Learning Outcome
-2. Two
-..+ Learning Outcome
-..+ Learning Outcome
+
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
-
-###Essential Reading
+##Suggestions for reading lists
 
 + Jon Duckett, Gilles Ruppert, Jack Moore, 2014, JavaScript & jQuery: interactive front-end Web development 
 + Jon Duckett, 2013, JavaScript & JQuery: interactive front-end Web development
@@ -60,14 +53,6 @@ The essential aims of this module are:
 Nixon, Robin, 1961-, 2012, Learning PHP, MySQL, JavaScript, and CSS: a step-by-step guide to creating dynamic websites (ELECTRONIC)
 
 
-
-###Further Reading
-
-
-
-###Special ICTS Requirements
-
-###Additional Requirements
 
 <!--
 

@@ -45,33 +45,20 @@ The essential aims of this module are:
 1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
 
 
-##Assessments
+##Assessment ideas
 
-1. One
-..+ Learning Outcome
-..+ Learning Outcome
-2. Two
-..+ Learning Outcome
-..+ Learning Outcome
+
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
-
-###Essential Reading
-
-+ The Laws of Simplicity: Design, Technology, Business, Life by John Maeda
-
-
-###Further Reading
+##Suggestions for reading lists
 
 
 
-###Special ICTS Requirements
 
-###Additional Requirements
+
 
 <!--
 

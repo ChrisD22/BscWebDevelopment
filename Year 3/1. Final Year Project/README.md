@@ -1,4 +1,4 @@
-#Web Coding and Theory 1
+#Final Year Project
 <!-- Temporary title -->
 ===============================
 
@@ -12,69 +12,46 @@
 
 <!-- 140 characters -->
 
-Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry. 
+The unit provides a platform for the design and execution of a web based project. It also requires reflection on, analysis and evaluation of education and work experience, providing a focus for professional development and employability skills.
 
 ###Indicative Content
 
-A twin-stranded module, Design Practice Fundamentals is delivered both off-screen and on-screen, to introduce students embarking on the course to the idea that interaction design can, and should, be developed off-screen as well as on-screen. Paper-based exercises introduce students to fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. Complimenting these studio sessions, lab sessions ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
+This unit involves the design and creation of a web based product. This may either be related to the subject matter from within the previously studied units or a topic of the student's own choice within the area of study. The product will normally be created in conjunction with an (external) sponsor. This unit will use a blended learning approach. Some taught and/or online learning supported sessions will support the development of appropriate technical, practical and professional skills. The independent work will be supported by a supervisor.
 
-This module runs concurrently with the Introduction to Communication Design history and theory module, which provides students with a contextual framework that is designed to complement the practical nature of this module.
++ Web Site Development
++ External or internal client
++ Project management
++ User expereince design
++ Documentation including proposal, client requirements etc.
 
-+ Point, Line, Plane
-+ Rhythm and Balance
-+ Scale and Composition
-+ Colour
-+ Typography
-+ Hierarchy
-+ Modularity
-+ Introduction to Web Standards
-+ Structured Markup, Semantics and Information Architecture
-+ Links
-+ File Transfer Protocols (FTP, SFTP)
-+ Cascading Style Sheets
-+ Responsive Foundations
 
 ##Learning Outcomes
 
 The essential aims of this module are:
 
-1. To introduce the formal principles of interaction design, including: sketching, visualisation, paper-prototyping and digital-prototyping.
-1. To equip students with a comprehensive understanding of communication design principles, including: composition, hierarchy, typography, and systems design.
-1. To ensure students acquire a solid, foundational knowledge of, and competence in HTML5 and CSS3 upon which they can build.
-1. To encourage a creative environment that supports an awareness and understanding of the core ideas of interaction design.
-1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
+1. Plan, organize and execute an individual programme of independent learning which leads to the development of a web based product.
+1. Use appropriate literature, methods and techniques in the design, creation, evaluation and reporting of the product.
+1. 	Reflect on and critically analyse their academic and work-based development experiences.
 
 
-##Assessments
+##Assessment ideas
 
-1. One
-..+ Learning Outcome
-..+ Learning Outcome
-2. Two
-..+ Learning Outcome
-..+ Learning Outcome
+
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
+##Suggestions for reading lists
 
-###Essential Reading
++ Bell, Judith, 2010, Doing your research project: a guide for first-time researchers in education, health and social science (ELECTRONIC)
++ Breandán Knowlton, 2012, A practical guide to managing web projects 
++ Goto, Kelly, Cotler, Emily, 2005, Web redesign 2.0: workflow that works
 
-+ Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
-+ Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
-+ Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
-+ Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
-
-
-###Further Reading
++ Avison, D. E., Fitzgerald, G., c2006, Information systems development: methodologies, techniques & tools
 
 
 
-###Special ICTS Requirements
-
-###Additional Requirements
 
 <!--
 

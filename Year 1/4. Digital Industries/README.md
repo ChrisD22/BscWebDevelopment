@@ -32,22 +32,15 @@ The essential aims of this module are:
 1. Reflect on aspects of enterprise skills development relating to working effectively in a team.
 
 
-##Assessments
+##Assessment ideas
 
-1. One
-..+ Learning Outcome
-..+ Learning Outcome
-2. Two
-..+ Learning Outcome
-..+ Learning Outcome
+
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
-
-###Essential Reading
+##Suggestions for reading lists
 
 + Boddy, David, Paton, Steve, 2011, Management: an introduction
 + Cole, G. A., Kelly, P., c2011, Management theory and practice
@@ -56,17 +49,12 @@ The essential aims of this module are:
 + Kenneth C. Laudon, Jane Price Laudon, 2016, Management information systems: managing the digital firm (ELECTRONIC. Read chapter 2 in particular 'Global e-busness and collaboration', pp.72-108)
 + Mullins, Laurie J., Christy, Gill, , Management & organisational behaviour (ELECTRONIC)
 
-
-###Further Reading
-
 + Armstrong, Gary, Kotler, Philip, c2013, Marketing: an introduction
 + Daft, Richard L., Marcic, Dorothy, 2012, Management: the new workplace
 + Lucey, T., 2005, Management information systems
 + Worthington, Ian, Britton, Chris, 2009, The business environment, Management decision
 
-###Special ICTS Requirements
 
-###Additional Requirements
 
 <!--
 

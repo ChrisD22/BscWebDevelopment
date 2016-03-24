@@ -35,22 +35,15 @@ The essential aims of this module are:
 1. 	Reflect upon their personal, professional and employability competencies.
 
 
-##Assessments
+##Assessment ideas
 
-1. One
-..+ Learning Outcome
-..+ Learning Outcome
-2. Two
-..+ Learning Outcome
-..+ Learning Outcome
+
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
-
-###Essential Reading
+##Suggestions for reading lists
 
 + Avison, D. E., Fitzgerald, G., c2006, Information systems development: methodologies, techniques & tools
 + James A. Highsmith, c2010, Agile project management: creating innovative products (This is a link to the 2nd edition (2010). 
@@ -58,18 +51,13 @@ The essential aims of this module are:
 + Lientz, Bennet P., Rea, Kathryn P., 2001, Project management for the 21st century (ELECTRONIC)
 Harvey Maylor, 2010, Project management (ELECTRONIC)
 
-
-###Further Reading
-
 + Curtis, Graham, Cobham, David P., 2008, Business information systems: analysis, design, and practice
 + Neil Thompson, 2015, People skills 
 + Garud, Raghu, Kumaraswamy, Arun, Langlois, Richard N., 2003, Managing in the modular age: architectures, networks, and organizations (ELECTRONIC)
 + International journal of project management (ELECTRONIC)
 + Project management journal
 
-###Special ICTS Requirements
 
-###Additional Requirements
 
 <!--
 

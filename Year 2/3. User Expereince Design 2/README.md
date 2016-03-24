@@ -29,22 +29,16 @@ The essential aims of this module are:
 1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
 
 
-##Assessments
+##Assessment ideas
 
-1. One
-..+ Learning Outcome
-..+ Learning Outcome
-2. Two
-..+ Learning Outcome
-..+ Learning Outcome
+
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
+##Suggestions for reading lists
 
-###Essential Reading
 
 + Allen, J., Chudley, J., 2012. Smashing UX design: foundations for designing online user experiences. Wiley. 
 + A Project Guide to UX Design: For user experience designers in the field or in the making by Russ Unger and Carolyn Chandler
@@ -55,14 +49,6 @@ The essential aims of this module are:
 + Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests by Jeffrey Rubin
 + Simple and Usable Web, Mobile, and Interaction Design by Giles Colborne
 
-
-###Further Reading
-
-
-
-###Special ICTS Requirements
-
-###Additional Requirements
 
 <!--
 

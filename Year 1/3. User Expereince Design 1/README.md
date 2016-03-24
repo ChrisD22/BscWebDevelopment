@@ -47,22 +47,15 @@ The essential aims of this module are:
 1. To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
 
 
-##Assessments
+##Assessment ideas
 
-1. One
-..+ Learning Outcome
-..+ Learning Outcome
-2. Two
-..+ Learning Outcome
-..+ Learning Outcome
+
 
 ##Learning Activities
 
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 
-##Learning Resources
-
-###Essential Reading
+##Suggestions for reading lists
 
 + Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
 + Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
@@ -73,13 +66,7 @@ The essential aims of this module are:
 + Le Peuple, J., Scane, R., 2004. User Interface Design. Crucial.
 + 100 Things Every Designer Needs to Know About People by Susan Weinschenk
 
-###Further Reading
 
-
-
-###Special ICTS Requirements
-
-###Additional Requirements
 
 <!--
 
