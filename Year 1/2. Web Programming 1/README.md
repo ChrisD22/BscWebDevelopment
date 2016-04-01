@@ -18,7 +18,7 @@ Do you see PHP / SQL as the key technologies for web data storage in the next 5 
 
 <!-- 140 characters -->
 
-This course provides a detailed introduction to the key concepts technologies contributing to today’s digital information landscape. It covers relevant aspects of the Internet, the Web and programming from both a theoretical and practical perspective.
+This course provides a detailed introduction to the key concepts and technologies contributing to today’s digital information landscape. It covers relevant aspects of the Internet, the Web and programming from both a theoretical and practical perspective.
 
 ###Indicative Content
 
