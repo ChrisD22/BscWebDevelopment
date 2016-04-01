@@ -7,8 +7,6 @@
 
 ##Our Vision
 
-The 
-
 ##Questions for industry
 
 
@@ -28,7 +26,7 @@ This unit provides a detailed introduction to Javascript and Javascript-related 
 + The Document Object Model
 + Event-driven programming
 + Javascript libraries
-+ JQuery, AJAX , JSON.
++ JQuery, AJAX , JSON, accessing and building RESTful applications
 + HTML5 canvas, animations.
 
 
@@ -36,15 +34,15 @@ This unit provides a detailed introduction to Javascript and Javascript-related 
 
 The essential aims of this module are:
 
-1. To describe the key concepts underlying programming languages and Javascript in particular.
-1. Read scripts, that is describe in English language and as run-time results, the concepts underlying and the actions specified in web language constructs.
-1. Integrate a web programming language with HTML and CSS technologies to develop a web based information system.
+1. Demonstrate an understanding of the key concepts underlying Javascript.
+1. Describe in English language and as run-time results the actions specified in a Javascript program.
 1. Write and modify scripts to achieve different tasks associated with web data handling and styling.
 
 
 ##Assessment ideas
 
-
++ Class test (theory, concepts)
++ Practical project (dynamic website involving data searches, login, validation etc)
 
 ##Learning Activities
 
@@ -52,19 +50,15 @@ The essential aims of this module are:
 
 ##Suggestions for reading lists
 
-+ Jon Duckett, Gilles Ruppert, Jack Moore, 2014, JavaScript & jQuery: interactive front-end Web development 
-+ Jon Duckett, 2013, JavaScript & JQuery: interactive front-end Web development
-+ Williams, Hugh E., Lane, David, 2004, Web database applications with PHP and MySQL (ELECTRONIC)
-+ Larry E. Ullman, Larry E. Ullman, c2011, PHP for the Web
-Nixon, Robin, 1961-, 2012, Learning PHP, MySQL, JavaScript, and CSS: a step-by-step guide to creating dynamic websites (ELECTRONIC)
-
-
++ Lynda.com: JavaScript Essential Training with Simon Allardice http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html
++ Lynda.com:  Introducing the Javascript language with Joe Chellman: http://www.lynda.com/JavaScript-tutorials/Introducing-JavaScript-Language/123563-2.html
++ Duckett, Jon, 2014, JavaScript & JQuery: Interactive Front-end Web Development, New Jersey: John Wiley
++ Mozilla Javascript Guide: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
++ W3 Schools Javascript tutorial: http://www.w3schools.com/js/
++ Developphp: https://www.developphp.com
 
 <!--
 
 Notes
 
 -->
-
-
-
